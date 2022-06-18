@@ -1,4 +1,4 @@
-# NeoFPS_EmeraldAI
+# NeoFPS_EmeraldAI - DUMMY DO NOT MERGE
 NeoFPS and Emerald AI 3 integration assets
 
 ## Requirements
